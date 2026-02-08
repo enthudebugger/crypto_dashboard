@@ -146,7 +146,7 @@ Dashboard overview (positions, account summary, buffers, notional breakdown):
 - **Author:** enthudebugger
 - **Email:** aliffahrurizal@gmail.com
 - **GitHub:** @enthudebugger
-- **Website/Portfolio:** aliffahrurizal.vercel.app
+- **Website/Portfolio:** https://aliffahrurizal.vercel.app/
 
 ---
 
